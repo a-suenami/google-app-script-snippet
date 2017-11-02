@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "googleapis": "^22.2.0"
+    "googleapis": "^22.2.0",
+    "node-google-apps-script": "^1.1.5"
   }
 }
